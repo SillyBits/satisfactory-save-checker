@@ -12,14 +12,19 @@ Based on the outcome, you will either be presented:
 ```
 NO errors found at all.
 ```
-which is, as stated, perfect ... or some errors similar to
+which is, perfect :v: ... or some errors similar to
 ```
-- Object pathName='Persistent_Level:PersistentLevel.Char_CaveStinger_Child_C_8'
+- pathName='Persistent_Level:PersistentLevel.Char_CaveStinger_Child_C_8'
         -> Invalid scale: 9.807989511238917e-38 | 9.807989511238917e-38 | 9.807989511238917e-38
-- Object pathName='Persistent_Level:PersistentLevel.Char_CaveStinger_Child_C_5'
+  in actor, pathName='Persistent_Level:PersistentLevel.Char_CaveStinger_Child_C_8', className='/Game/FactoryGame/Character/Creature/Enemy/Stinger/SmallStinger/Char_CaveStinger_Child.Char_CaveStinger_Child_C'
+
+- pathName='Persistent_Level:PersistentLevel.Char_CaveStinger_Child_C_5'
         -> Invalid scale: 9.807989511238917e-38 | 9.807989511238917e-38 | 9.807989511238917e-38
-- Object pathName='Persistent_Level:PersistentLevel.Char_CaveStinger_Child_C_6'
+  in actor, pathName='Persistent_Level:PersistentLevel.Char_CaveStinger_Child_C_5', className='/Game/FactoryGame/Character/Creature/Enemy/Stinger/SmallStinger/Char_CaveStinger_Child.Char_CaveStinger_Child_C'
+
+- pathName='Persistent_Level:PersistentLevel.Char_CaveStinger_Child_C_6'
         -> Invalid scale: 9.807989511238917e-38 | 9.807989511238917e-38 | 9.807989511238917e-38
+  in actor, pathName='Persistent_Level:PersistentLevel.Char_CaveStinger_Child_C_6', className='/Game/FactoryGame/Character/Creature/Enemy/Stinger/SmallStinger/Char_CaveStinger_Child.Char_CaveStinger_Child_C'
 
 Inspected a total of 90669 objects.
 A total of 3 errors were found!
