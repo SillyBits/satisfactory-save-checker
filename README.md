@@ -1,6 +1,8 @@
 # satisfactory-save-checker
 A simple python script for checking objects stored within Satisfactory save games.
 
+=> Idea transitioned to new repo https://github.com/SillyBits/satisfactory-save-repairer which also provides some UI and aims at provinding a 1-click solution to repairing broken savegames, so this repo will be removed soonish^^
+
 Based on @bitowl and @S4XXX work with https://github.com/bitowl/satisfactory-save-format, so all the credits for the hard work goes to them, I've just added some check routines and removed json export. Oh, and renamed save2json which was the hardest part of all :laughing:
 
 Usage is as simple as:
